@@ -1,3 +1,0 @@
-/home/scsiet/Documents/2610.f24.public/Project4/cmake-build-debug/CMakeFiles/Project4.dir
-/home/scsiet/Documents/2610.f24.public/Project4/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/scsiet/Documents/2610.f24.public/Project4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

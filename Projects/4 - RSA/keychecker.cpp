@@ -83,6 +83,12 @@ int main() {
         return 1;
     }
 
+    // verify that factors are different
+    if (p == q) {
+        cout << "p and q are identical" << endl;
+        return 1;
+    }
+
     // compute f
     f = (p - 1) * (q - 1);
 
